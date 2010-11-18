@@ -1,0 +1,6 @@
+This is a Go package for parsing HTTP Range: headers.  It was initially
+written as part of another project.  Feel free to do whatever you want with
+it.
+
+Daniel Erat
+dan@erat.org
